@@ -1,7 +1,7 @@
 
 # Dynamic LoadTesting singular multi tech website
 
-LoadTesting of a same website built on top of multiple technologies like PHP, laravel and CodeIgniter
+LoadTesting of a same website built on top of multiple technologies like PHP, laravel and CodeIgniter using JMETER and LOCUST
 
 
 
